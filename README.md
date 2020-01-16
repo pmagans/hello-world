@@ -4,9 +4,9 @@
 
 1. *Wonder* if there is a way to get **VIM** editing into this pane?
 
-This is some text that needs a footnote. [^1]
+This is some text that needs a footnote. <sup>1</sup>
 
 [This goes to google](https://www.google.com)
 
 
-[^1]: This is what the footnote will look like.
+<sup>1</sup>: This is what the footnote will look like.
