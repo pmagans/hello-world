@@ -9,4 +9,4 @@ This is some text that needs a footnote.<sup>1</sup>
 [This goes to google](https://www.google.com)
 
 
-<sup>1</sup>This is what the footnote will look like.
+<sup>1</sup> This is what the footnote will look like.
