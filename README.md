@@ -5,7 +5,9 @@
 1. I *Wonder* if there is a way to get **VIM** editing into this pane?
 
 This is some text that needs a footnote.<sup>1</sup>
+
 This is some also some text that needs a footnote.<sup>2</sup>
+
 We will need to add some of the text from both sides of the equation.<sup>2</sup>
 
 [This goes to google](https://www.google.com)
